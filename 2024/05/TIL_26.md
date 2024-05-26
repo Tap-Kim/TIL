@@ -1,7 +1,7 @@
 # TIL 
 
 ## 어떤 공부를 했는지 or 문제가 있었는지
-  - 알고리즘: [옹알이 (1)]([https://github.com/Tap-Kim/algorithm-history/blob/main/programmers/최빈값%20구하기.md](https://github.com/Tap-Kim/algorithm-history/blob/main/programmers/옹알이%20(1).md))
+  - 알고리즘: [옹알이 (1)](https://github.com/Tap-Kim/algorithm-history/blob/main/programmers/옹알이%20(1).md)
 
 ## 내가 시도해본 것들
   - 알고리즘
