@@ -1,7 +1,7 @@
 # TIL 
 
 ## 어떤 공부를 했는지 or 문제가 있었는지
-- javascript 우선순위 큐(힙)을 공부함
+- javascript 우선순위 큐(힙)을 공부함 - [우선순위 큐](https://github.com/Tap-Kim/algorithm-history/blob/main/data-structure/PriorityQueue.js)
 - 프로그래머스 - [더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626?language=javascript)
 - 아티클: fe-article 리뷰 겸 리액트 19 컴파일러 문서 정독
 
