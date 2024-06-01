@@ -1,7 +1,7 @@
 # TIL 
 
 ## 어떤 공부를 했는지 or 문제가 있었는지
-- 알고리즘: [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+- 알고리즘: [피로도](https://github.com/Tap-Kim/algorithm-history/blob/main/programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.md)
 - 스토리북 이슈 PR 확인을 하며, 사이드 탭의 컴포넌트 API 구조를 확인할 수 있었다.
 - 깃헙 PR 테스트 CI 조사
 
