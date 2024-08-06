@@ -1,0 +1,90 @@
+# AsyncGenerator와 AsyncGeneratorFuction
+
+## 정리
+
+- `AsyncGenerator` 객체는 `async generator function`에 의해 반환되고, *비동기 순회 프로토콜 + 비동기 반복자 프로토콜*을 준수한다.
+- `Async generator 메서드`는 항상 `Promise` 객체를 *yield* 한다.
+- `AsyncGenerator`는 숨겨진 `AsyncIterator` 클래스의 *하위 클래스*이다.
+- `AsyncGeneratorFunction.prototype`의 프로퍼티인 `prototype`은 `async generator function`에서 공유하며, 그 값은 `AsyncGenerator.prototype`이다. `async function*` 구문 또는 `AsyncGeneratorFunction()` 생성자를 사용하여 생성된 각 비동기 제너레이터 함수에는 자체 프로토타입 프로퍼티가 있고, 그 프로토타입은 `AsyncGeneratorFunction.prototype.prototype`이다. 비동기 제너레이터 함수가 호출되면 해당 프로토타입 프로퍼티는 반환된 비동기 제너레이터 객체의 프로토타입이 된다.
+
+![](https://mdn.github.io/shared-assets/images/diagrams/javascript/asyncgeneratorfunction/prototype-chain.svg)
+
+> 다이어그램은 비동기 생성기 함수의 프로토타입 체인과 그 인스턴스를 보여준다. 각 속이 빈 화살표는 상속 관계(즉, 프로토타입 링크)를 나타내고, 각 실선 화살표는 속성 관계를 나타냅니다. gen—에서 genFunc에 액세스할 수 있는 방법은 없으며 인스턴스 관계만 있다는 점에 유의한다.
+
+
+### 참고 
+- 주요 키워드: 비동기, generator, prototype, iterator, iterable, async-await, promise
+- 관련 기술: AsyncGenerator, AsyncGeneratorFuction, AsyncIterator
+
+## 무엇을 알았는지
+
+### AsyncGenerator 생성자
+
+- AsyncGenerator 생성자와 대응되는 JavaScript 객체는 없다.
+- async generator function에서 AsyncGenerator의 인스턴스를 반환해야한다.
+
+```js
+async function* createAsyncGenerator() {
+  yield await Promise.resolve(1);
+  yield await Promise.resolve(2);
+  yield await Promise.resolve(3);
+}
+const asyncGen = createAsyncGenerator();
+asyncGen.next().then((res) => console.log(res.value)); // 1
+asyncGen.next().then((res) => console.log(res.value)); // 2
+asyncGen.next().then((res) => console.log(res.value)); // 3
+```
+
+- async generator function이 생성한 모든 객체가 공유하는 프로토타입 객체인 `숨겨진 객체`만 있다. 
+- 이는 클래스처럼 보이게 하기 위해 `AsyncGenerator.prototype`으로 그려지지만, `AsyncGeneratorFunction`은 실제 Javascript 객체이기 때문에 `AsyncGeneratorFunction.prototype.prototype`이 더 적절하다.([AsyncGeneratorFunction.prototype.prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGeneratorFunction/prototype)의 프로토타입 체인)
+
+### AsyncGenerator 인스턴스 속성
+
+> 참고: `AsyncGenerator` 객체는 자신을 생성한 async generator function의 `참조를 저장하지 않는다.`
+
+- **AsyncGenerator.prototype[@@toStringTag]**
+    - `@@toStringTag` 속성의 초기 값은 문자열 `AsyncGenerator`. 
+    - 이 속성은 `Object.prototype.toString()`에서 사용한다.
+
+### AsyncGenerator 인스턴스 메서드
+
+부모 `AsyncIterator`에서 인스턴스 메서드를 상속한다.
+
+- **AsyncGenerator.prototype.next()**
+    - `Promise`를 반환하며, `yield 표현식에 의해 산출`되어 주어진 값으로 이행한다.
+
+- **AsyncGenerator.prototype.return()**
+    - 현재 일시 중단된 위치에서 생성기 본문에 `return 문이 삽입되어 생성기를 종료`하고 `try...finally 블록과 결합`하여 정리 작업을 수행할 수 있는 것처럼 작동한다.
+
+- **AsyncGenerator.prototype.throw()**
+    - 현재 일시 중단된 위치의 생성기 본문에 `throw 문을 삽입하여 생성기에 오류 상태를 알리고 오류를 처리`하거나 정리를 수행하고 스스로 닫을 수 있도록 하는 것처럼 작동한다.
+
+### AsyncGenerator 순회
+```js
+function delayedValue(time, value) {
+  return new Promise((resolve /*, reject*/) => {
+    setTimeout(() => resolve(value), time);
+  });
+}
+
+async function* generate() {
+  yield delayedValue(2000, 1);
+  yield delayedValue(100, 2);
+  yield delayedValue(500, 3);
+  yield delayedValue(250, 4);
+  console.log("All done!");
+}
+
+async function main() {
+  for await (const value of generate()) {
+    console.log("value", value);
+  }
+}
+
+main().catch((e) => console.error(e));
+
+```
+
+### 출처
+- [AsyncGenerator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator)
+- [AsyncGeneratorFunction.prototype.prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGeneratorFunction/prototype)
