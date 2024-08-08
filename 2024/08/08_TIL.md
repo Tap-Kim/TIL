@@ -15,11 +15,15 @@
 ### Flux 패턴의 등장 배경
 
 1. MVC 패턴
+
    ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*sz1U9AUxtw5WnVNmS1jgww.png)
+
    MVC 패턴은 앱의 크기가 커짐에 따라 상태(데이터)도 많은 곳에서 일어나 변화와 추적의 이해가 어려운 양방향 데이터 바인딩으로써 MVC은 React와 맞지 않는 방식이었다.
 
 2. Flux 패턴
+
    ![](https://www.clariontech.com/hs-fs/hubfs/Image2-61.png?width=513&name=Image2-61.png)
+
    페이스북 팀에서는 코드 양은 많아지지만 복잡한 시나리오에서도 단반향으로 데이터 흐름을 설계하여 변화와 추적이 용이한 Flux 패턴을 채택하였고, Redux와 같은 상태관리 라이브러리에서도 이 패턴을 채택했다.
 
 ### Redux 구조와 흐름
