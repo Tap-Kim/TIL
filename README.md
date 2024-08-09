@@ -8,6 +8,10 @@
 - [AsyncGenerator와 AsyncGeneratorFuction](https://github.com/Tap-Kim/TIL/blob/main/2024/08/06_TIL.md#asyncgenerator%EC%99%80-asyncgeneratorfuction)
 - [React - Suspense의 대수적 효과에 의한 동작 원리(with. 데이터 패칭)](https://github.com/Tap-Kim/TIL/blob/main/2024/08/07_TIL.md)
 
+# 리액트
+
+- [React hook으로 전역 상태 관리 만들어보기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/09_TIL.md)
+
 ## 웹 API
 
 - [Observable](https://github.com/Tap-Kim/TIL/blob/main/2024/08/05_TIL.md#observable)
