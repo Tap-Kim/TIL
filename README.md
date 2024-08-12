@@ -20,6 +20,7 @@
 
 - [RxJS](https://github.com/Tap-Kim/TIL/blob/main/2024/08/05_TIL.md#rxjs)
 - [Redux의 구조와 배경](https://github.com/Tap-Kim/TIL/blob/main/2024/08/08_TIL.md)
+- [Zustand 내부 구조 살펴보기(with. VanillaJS, React)](https://github.com/Tap-Kim/TIL/blob/main/2024/08/12_TIL.md)
 
 # Article
 
