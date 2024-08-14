@@ -11,6 +11,7 @@
 # 리액트
 
 - [React hook으로 전역 상태 관리 만들어보기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/09_TIL.md)
+- [React 서버 API 알아보기 - renderToString, renderToStaticMarkup, renderToNodeStream](https://github.com/Tap-Kim/TIL/blob/main/2024/08/14_TIL.md)
 
 ## 웹 API
 
