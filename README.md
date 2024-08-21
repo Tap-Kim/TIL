@@ -1,5 +1,9 @@
 # TIL
 
+# 브라우저
+
+- [브라우저 로드시 HTML 성능을 위한 5가지 일반적인 고려사항](https://github.com/Tap-Kim/TIL/blob/main/2024/08/21_TIL.md)
+
 # 자바스크립트
 
 ## 비동기
@@ -15,11 +19,11 @@
 - [React 서버 API 알아보기 - renderToPipeableStream](https://github.com/Tap-Kim/TIL/blob/main/2024/08/16_TIL.md)
 - [React에서 Streaming SSR 비동기 렌더링 살펴보기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/19_TIL.md)
 
-## 웹 API
+# 웹 API
 
 - [Observable](https://github.com/Tap-Kim/TIL/blob/main/2024/08/05_TIL.md#observable)
 
-## 라이브러리
+# 라이브러리
 
 - [RxJS](https://github.com/Tap-Kim/TIL/blob/main/2024/08/05_TIL.md#rxjs)
 - [Redux의 구조와 배경](https://github.com/Tap-Kim/TIL/blob/main/2024/08/08_TIL.md)
