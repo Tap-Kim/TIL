@@ -4,6 +4,7 @@
 
 - [브라우저 로드시 HTML 성능을 위한 5가지 일반적인 고려사항](https://github.com/Tap-Kim/TIL/blob/main/2024/08/21_TIL.md)
 - [Critical Path(주요 경로)의 이해](https://github.com/Tap-Kim/TIL/blob/main/2024/08/22_TIL.md)
+- [브라우저 리소스 로딩 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/23_TIL.md)
 
 # 자바스크립트
 
