@@ -6,6 +6,7 @@
 - [Critical Path(주요 경로)의 이해](https://github.com/Tap-Kim/TIL/blob/main/2024/08/22_TIL.md)
 - [브라우저 리소스 로딩 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/23_TIL.md)
 - [리소스 힌트로 브라우저 지원 및 UX 개선하기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/26_TIL.md)
+- [이미지 성능](https://github.com/Tap-Kim/TIL/blob/main/2024/08/27_TIL.md)
 
 # 자바스크립트
 
