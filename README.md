@@ -8,6 +8,7 @@
 - [리소스 힌트로 브라우저 지원 및 UX 개선하기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/26_TIL.md)
 - [이미지 성능](https://github.com/Tap-Kim/TIL/blob/main/2024/08/27_TIL.md)
 - [비디오 퍼포먼스](https://github.com/Tap-Kim/TIL/blob/main/2024/08/28_TIL.md)
+- [웹 폰트 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/29_TIL.md)
 
 # 자바스크립트
 
