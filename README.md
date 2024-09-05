@@ -12,6 +12,7 @@
 - [코드 스플릿](https://github.com/Tap-Kim/TIL/blob/main/2024/08/30_TIL.md)
 - [지연 로드 이미지 및 `<iframe>` 요소](https://github.com/Tap-Kim/TIL/blob/main/2024/09/03_TIL.md)
 - [prefetching, prerendering, precaching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/04_TIL.md)
+- [Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
 
 # 자바스크립트
 
