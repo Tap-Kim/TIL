@@ -2,17 +2,18 @@
 
 # 브라우저
 
-- [브라우저 로드시 HTML 성능을 위한 5가지 일반적인 고려사항](https://github.com/Tap-Kim/TIL/blob/main/2024/08/21_TIL.md)
-- [Critical Path(주요 경로)의 이해](https://github.com/Tap-Kim/TIL/blob/main/2024/08/22_TIL.md)
-- [브라우저 리소스 로딩 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/23_TIL.md)
-- [리소스 힌트로 브라우저 지원 및 UX 개선하기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/26_TIL.md)
-- [이미지 성능](https://github.com/Tap-Kim/TIL/blob/main/2024/08/27_TIL.md)
-- [비디오 퍼포먼스](https://github.com/Tap-Kim/TIL/blob/main/2024/08/28_TIL.md)
-- [웹 폰트 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/29_TIL.md)
-- [코드 스플릿](https://github.com/Tap-Kim/TIL/blob/main/2024/08/30_TIL.md)
-- [지연 로드 이미지 및 `<iframe>` 요소](https://github.com/Tap-Kim/TIL/blob/main/2024/09/03_TIL.md)
-- [prefetching, prerendering, precaching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/04_TIL.md)
-- [Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
+- [[web.dev] 브라우저 로드시 HTML 성능을 위한 5가지 일반적인 고려사항](https://github.com/Tap-Kim/TIL/blob/main/2024/08/21_TIL.md)
+- [[web.dev] Critical Path(주요 경로)의 이해](https://github.com/Tap-Kim/TIL/blob/main/2024/08/22_TIL.md)
+- [[web.dev] 브라우저 리소스 로딩 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/23_TIL.md)
+- [[web.dev] 리소스 힌트로 브라우저 지원 및 UX 개선하기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/26_TIL.md)
+- [[web.dev] 이미지 성능](https://github.com/Tap-Kim/TIL/blob/main/2024/08/27_TIL.md)
+- [[web.dev] 비디오 퍼포먼스](https://github.com/Tap-Kim/TIL/blob/main/2024/08/28_TIL.md)
+- [[web.dev] 웹 폰트 최적화](https://github.com/Tap-Kim/TIL/blob/main/2024/08/29_TIL.md)
+- [[web.dev] 코드 스플릿](https://github.com/Tap-Kim/TIL/blob/main/2024/08/30_TIL.md)
+- [[web.dev] 지연 로드 이미지 및 `<iframe>` 요소](https://github.com/Tap-Kim/TIL/blob/main/2024/09/03_TIL.md)
+- [[web.dev] prefetching, prerendering, precaching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/04_TIL.md)
+- [[web.dev] Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
+- [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
 
 # 자바스크립트
 
