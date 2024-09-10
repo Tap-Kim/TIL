@@ -15,6 +15,10 @@
 - [[web.dev] Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
 - [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
 
+# CSS
+
+- [CSS 성능 최적화를 위한 이유와 방법(1)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/10_TIL.md)
+
 # 자바스크립트
 
 ## 비동기
