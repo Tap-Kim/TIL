@@ -18,6 +18,7 @@
 # CSS
 
 - [CSS 성능 최적화를 위한 이유와 방법(1)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/10_TIL.md)
+- [CSS 성능 최적화를 위한 이유와 방법(2)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/11_TIL.md)
 
 # 자바스크립트
 
