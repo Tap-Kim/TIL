@@ -39,6 +39,7 @@
 
 - [Next.js의 캐싱(1) - 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/23_TIL.md)
 - [Next.js의 캐싱(2) - 데이터 캐시](https://github.com/Tap-Kim/TIL/blob/main/2024/09/24_TIL.md)
+- [Next.js의 캐싱(3) - Full Route Cache](https://github.com/Tap-Kim/TIL/blob/main/2024/09/25_TIL.md)
 
 # 프레임워크
 
