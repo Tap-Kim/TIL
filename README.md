@@ -43,6 +43,7 @@
 - [Next.js의 캐싱(4) - Client-side Router Cache & Cache Interactions](https://github.com/Tap-Kim/TIL/blob/main/2024/09/26_TIL.md)
 - [Next.js의 캐싱(5) - APIs](https://github.com/Tap-Kim/TIL/blob/main/2024/09/27_TIL.md)
 - [Next.js 서버 컴포넌트 - Static Rendering, Dynamic Rendering, Streaming](https://github.com/Tap-Kim/TIL/blob/main/2024/09/30_TIL.md)
+- [Next.js - 증분 정적 재생성(ISR - Incremental Static Regeneration)](https://github.com/Tap-Kim/TIL/blob/main/2024/10/01_TIL.md)
 
 # 프레임워크
 
