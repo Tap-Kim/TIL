@@ -20,6 +20,7 @@
 - [CSS 성능 최적화를 위한 이유와 방법(1)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/10_TIL.md)
 - [CSS 성능 최적화를 위한 이유와 방법(2)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/11_TIL.md)
 - [CSS 미디어 쿼리 가이드(1) - 미디어 쿼리에 사용되는 다양한 요소들](https://github.com/Tap-Kim/TIL/blob/main/2024/10/04_TIL.md)
+- [CSS 미디어 쿼리 가이드(2) - UX 관점의 미디어 쿼리와 시스템 환경에 따른 설정](https://github.com/Tap-Kim/TIL/blob/main/2024/10/07_TIL.md)
 
 # 자바스크립트
 
