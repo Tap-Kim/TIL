@@ -36,6 +36,7 @@
 - [React 서버 API 알아보기 - renderToString, renderToStaticMarkup, renderToNodeStream](https://github.com/Tap-Kim/TIL/blob/main/2024/08/14_TIL.md)
 - [React 서버 API 알아보기 - renderToPipeableStream](https://github.com/Tap-Kim/TIL/blob/main/2024/08/16_TIL.md)
 - [React에서 Streaming SSR 비동기 렌더링 살펴보기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/19_TIL.md)
+- [400줄의 코드로 나만의 React.js 구축하기](https://webdeveloper.beehiiv.com/p/build-react-400-lines-code)
 
 # Next
 
