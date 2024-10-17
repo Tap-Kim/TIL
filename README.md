@@ -24,6 +24,10 @@
 
 # 자바스크립트
 
+## CS
+
+- [CJS와 ESM의 Tree-shaking, 왜 ESM일까?](https://github.com/Tap-Kim/TIL/blob/main/2024/10/17_TIL.md)
+
 ## 비동기
 
 - [비동기 처리 방법(with. 리액티브 프로그래밍, RxJS)](https://github.com/Tap-Kim/TIL/blob/main/2024/08/05_TIL.md)
