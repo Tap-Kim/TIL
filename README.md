@@ -88,6 +88,7 @@
 ## UX
 
 - [어포던스(Affordance - 행동 유도성)](https://github.com/Tap-Kim/TIL/blob/main/2024/08/02_TIL.md#%EC%96%B4%ED%8F%AC%EB%8D%98%EC%8A%A4affordance---%ED%96%89%EB%8F%99-%EC%9C%A0%EB%8F%84%EC%84%B1)
+- [[카카오페이] RTK(Redux-Toolkit)에서 React-Query의 전환 사례](https://github.com/Tap-Kim/TIL/blob/main/2024/10/21_TIL.md)
 
 <!-- 1. 어떤 문제가 있었는지
 2. 내가 시도해본 것들
