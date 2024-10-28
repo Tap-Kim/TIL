@@ -89,6 +89,10 @@
 - [AHA 테스팅(Avoid Hasty Abstraction) - 성급한 추상화 피하기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/13_TIL.md)
 - [좋은 리팩토링 vs 나쁜 리팩토링](https://github.com/Tap-Kim/TIL/blob/main/2024/09/02_TIL.md)
 
+## 디자인 패턴
+
+- [[디자인 패턴] Singleton](https://github.com/Tap-Kim/TIL/blob/main/2024/10/28_TIL.md)
+
 ## UX
 
 - [어포던스(Affordance - 행동 유도성)](https://github.com/Tap-Kim/TIL/blob/main/2024/08/02_TIL.md#%EC%96%B4%ED%8F%AC%EB%8D%98%EC%8A%A4affordance---%ED%96%89%EB%8F%99-%EC%9C%A0%EB%8F%84%EC%84%B1)
