@@ -35,7 +35,7 @@ console.log(counter1.getInstance() === counter2.getInstance()); // false
 
 위 코드는 패턴을 만족하지 않는데, 인스턴스를 단 한번만 만들 수 있어야하기 때문이다. 인스턴스를 두번 호출하여 서로 별개의 인스턴스임을 확인할 수 있다. 같은 참조를 바라보고 있지 않아 동일한 인스턴스가 아니다.
 
-<video src="https://patterns-dev-kr.github.io/design-singleton01.mp4" width="100%"  autoplay controls playsinline loop></video>
+[![image](https://github.com/user-attachments/assets/3afa8566-4549-4eb7-b17a-f0b6b50f8833)](https://patterns-dev-kr.github.io/design-singleton01.mp4)
 
 인스턴스를 export하기 전에 인스턴스를 `Object.freeze` 해서 객체를 사용하는 쪽에서 직접 수정을 할 수 없도록한다. 이렇게 처리된 인스턴스는 프로퍼티의 추가나 수정이 불가능하여 싱글톤 인스턴스의 프로퍼티를 덮어쓰는 실수를 예방할 수 있다.
 
