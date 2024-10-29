@@ -92,6 +92,7 @@
 ## 디자인 패턴
 
 - [[디자인 패턴] Singleton](https://github.com/Tap-Kim/TIL/blob/main/2024/10/28_TIL.md)
+- [[디자인 패턴] Observer](https://github.com/Tap-Kim/TIL/blob/main/2024/10/29_TIL.md)
 
 ## UX
 
