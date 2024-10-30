@@ -13,7 +13,7 @@
 - [[web.dev] 지연 로드 이미지 및 `<iframe>` 요소](https://github.com/Tap-Kim/TIL/blob/main/2024/09/03_TIL.md)
 - [[web.dev] prefetching, prerendering, precaching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/04_TIL.md)
 - [[web.dev] Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
-- [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
+- [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)\
 
 # CSS
 
@@ -60,6 +60,7 @@
 # 웹 API
 
 - [Observable](https://github.com/Tap-Kim/TIL/blob/main/2024/08/05_TIL.md#observable)
+- [ResizeObserver API(feat. window resize)](https://github.com/Tap-Kim/TIL/blob/main/2024/10/30_TIL.md)
 
 # 네트워크
 
