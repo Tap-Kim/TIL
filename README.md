@@ -14,6 +14,7 @@
 - [[web.dev] prefetching, prerendering, precaching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/04_TIL.md)
 - [[web.dev] Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
 - [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)\
+- [Open Graph (링크의 미리보기 제목, 설명, 이미지를 결정하는 open graph 태그)](https://github.com/Tap-Kim/TIL/blob/main/2024/11/04_TIL.md)
 
 # CSS
 
