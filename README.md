@@ -13,7 +13,7 @@
 - [[web.dev] 지연 로드 이미지 및 `<iframe>` 요소](https://github.com/Tap-Kim/TIL/blob/main/2024/09/03_TIL.md)
 - [[web.dev] prefetching, prerendering, precaching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/04_TIL.md)
 - [[web.dev] Web Worker의 개요](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
-- [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)\
+- [[web.dev] Web Worker의 사례 (feat. Exif 메타데이터 제거)](https://github.com/Tap-Kim/TIL/blob/main/2024/09/05_TIL.md)
 - [Open Graph (링크의 미리보기 제목, 설명, 이미지를 결정하는 open graph 태그)](https://github.com/Tap-Kim/TIL/blob/main/2024/11/04_TIL.md)
 - [웹 접근성 & WAI-ARIA](https://github.com/Tap-Kim/TIL/blob/main/2024/11/06_TIL.md)
 
@@ -45,6 +45,7 @@
 - [React 서버 API 알아보기 - renderToPipeableStream](https://github.com/Tap-Kim/TIL/blob/main/2024/08/16_TIL.md)
 - [React에서 Streaming SSR 비동기 렌더링 살펴보기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/19_TIL.md)
 - [400줄의 코드로 나만의 React.js 구축하기](https://github.com/Tap-Kim/TIL/blob/main/2024/10/08_TIL.md)
+- [Thinking in React(5가지 기본 원칙)](https://github.com/Tap-Kim/TIL/blob/main/2024/11/12_TIL.md)
 
 # Next
 
