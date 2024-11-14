@@ -47,6 +47,7 @@
 - [400줄의 코드로 나만의 React.js 구축하기](https://github.com/Tap-Kim/TIL/blob/main/2024/10/08_TIL.md)
 - [Thinking in React(5가지 기본 원칙)](https://github.com/Tap-Kim/TIL/blob/main/2024/11/12_TIL.md)
 - [리액트 렌더링과 커밋](https://github.com/Tap-Kim/TIL/blob/main/2024/11/13_TIL.md)
+- [리액트 상태 구조 구성 방법](https://github.com/Tap-Kim/TIL/blob/main/2024/11/14_TIL.md)
 
 # Next
 
