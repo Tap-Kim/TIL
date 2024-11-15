@@ -31,6 +31,7 @@
 
 - [CJS와 ESM의 Tree-shaking, 왜 ESM일까?](https://github.com/Tap-Kim/TIL/blob/main/2024/10/17_TIL.md)
 - [Vite의 태생과 구조 (feat. ESBuild, Rollup)](https://github.com/Tap-Kim/TIL/blob/main/2024/10/18_TIL.md)
+- [동시성, 병렬성과 자바스크립트의 이해](https://github.com/Tap-Kim/TIL/blob/main/2024/11/15_TIL.md)
 
 ## 비동기
 
