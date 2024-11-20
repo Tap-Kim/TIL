@@ -61,6 +61,10 @@
 - [Next.js - 증분 정적 재생성(ISR - Incremental Static Regeneration)](https://github.com/Tap-Kim/TIL/blob/main/2024/10/01_TIL.md)
 - [Next.js - 텍스트 컨텐츠와 서버 렌더된 HTML간의 불일치와 해결방법](https://github.com/Tap-Kim/TIL/blob/main/2024/11/19_TIL.md)
 
+# 타입스크립트
+
+- [타입스크립트의 type과 interface](https://github.com/Tap-Kim/TIL/blob/main/2024/11/20_TIL.md)
+
 # 프레임워크
 
 - [`Turborepo` Caching](https://github.com/Tap-Kim/TIL/blob/main/2024/09/09_TIL.md)
