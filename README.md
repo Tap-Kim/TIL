@@ -64,6 +64,7 @@
 # 타입스크립트
 
 - [타입스크립트의 type과 interface](https://github.com/Tap-Kim/TIL/blob/main/2024/11/20_TIL.md)
+- [타입스크립트의 타입 가드 사용법](https://github.com/Tap-Kim/TIL/blob/main/2024/11/21_TIL.md)
 
 # 프레임워크
 
