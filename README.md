@@ -28,6 +28,8 @@
 
 # 자바스크립트
 
+- [자바스크립트의 가비지 컬렉션](https://github.com/Tap-Kim/TIL/blob/main/2024/11/26_TIL.md)
+
 ## CS
 
 - [CJS와 ESM의 Tree-shaking, 왜 ESM일까?](https://github.com/Tap-Kim/TIL/blob/main/2024/10/17_TIL.md)
