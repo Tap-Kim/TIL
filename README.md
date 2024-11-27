@@ -110,6 +110,7 @@
 - [DRY - 잘못된 추상화의 일반적인 원인](https://github.com/Tap-Kim/TIL/blob/main/2024/08/02_TIL.md#dry---%EC%9E%98%EB%AA%BB%EB%90%9C-%EC%B6%94%EC%83%81%ED%99%94%EC%9D%98-%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EC%9B%90%EC%9D%B8)
 - [AHA 테스팅(Avoid Hasty Abstraction) - 성급한 추상화 피하기](https://github.com/Tap-Kim/TIL/blob/main/2024/08/13_TIL.md)
 - [좋은 리팩토링 vs 나쁜 리팩토링](https://github.com/Tap-Kim/TIL/blob/main/2024/09/02_TIL.md)
+- [[CSS 방법론] BEM(Block\_\_Element_Modifier)](https://github.com/Tap-Kim/TIL/blob/main/2024/11/27_TIL.md)
 
 ## 디자인 패턴
 
