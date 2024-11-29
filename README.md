@@ -30,6 +30,7 @@
 
 - [자바스크립트의 가비지 컬렉션](https://github.com/Tap-Kim/TIL/blob/main/2024/11/26_TIL.md)
 - [현시점에서 이벤트루프의 우선순위는 어떤 기준으로 작업할까?](https://github.com/Tap-Kim/TIL/blob/main/2024/11/28_TIL.md)
+- [DOMContentLoaded 이벤트와 load 이벤트 비교](https://github.com/Tap-Kim/TIL/blob/main/2024/11/29_TIL.md)
 
 ## CS
 
